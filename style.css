@@ -56,7 +56,34 @@ strong{
     font-size: 20px;
     
 }
-span{
+.list-item{
     font-weight: 600;
     color: rgb(73, 75, 77);
 }
+#spunta{
+    height: 16px;
+
+}
+h3{
+    display: inline-block;
+    color: rgb(73, 75, 77);
+    padding-bottom: 10px;
+}
+.spunta{
+    padding: 0px 3px 0px 3px;
+    display: inline;
+    border: solid;
+    color: rgb(129, 199, 178);
+    border-width: 2px;
+    border-radius: 10px ;
+    border-color: rgb(129, 199, 178) ;
+    font-size: 13px;
+    font-weight: 600;
+}
+.list-button{
+    color: white;
+    background-color: rgb(67,172,232) ;
+    font-size: 10px;
+    padding: 7px 10px  ;
+    border-radius: 11px;
+
