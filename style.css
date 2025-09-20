@@ -1,0 +1,29 @@
+*{
+    font-family: sans-serif;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#toboolist{
+    font-size: 40px;
+    display: inline;
+    vertical-align: middle;
+    line-height: 59px;
+}
+    
+#margin-logo{
+    vertical-align: middle; 
+}
+#title{
+    padding-left: 18px;
+    padding-top: 10px;
+}
+main{
+    height: 800px;
+    background-color: aquamarine;
+}
+
+#lista{
+    background-color: white;
+    width: 70%;
+}
