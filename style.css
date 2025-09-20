@@ -80,10 +80,22 @@ h3{
     font-size: 13px;
     font-weight: 600;
 }
-.list-button{
+.padding-bottom{
+    padding-bottom: 20px;
+}
+.list-button-blue{
     color: white;
     background-color: rgb(67,172,232) ;
     font-size: 10px;
     padding: 7px 10px  ;
     border-radius: 11px;
-
+}
+.space{
+    padding-bottom: 35px;
+}
+.list-button-purple{
+    color: white;
+    background-color: rgb(156, 119, 224);
+    font-size: 10px;
+    padding: 7px 10px  ;
+    border-radius: 11px;
