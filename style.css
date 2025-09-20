@@ -10,6 +10,12 @@
     vertical-align: middle;
     line-height: 59px;
 }
+ .display-inline{
+    display: inline;
+ }
+ .display-block{
+    display: block;
+ }
     
 #margin-logo{
     vertical-align: middle; 
@@ -21,9 +27,36 @@
 main{
     height: 800px;
     background-color: aquamarine;
+    padding-top: 40px;
 }
 
 #lista{
     background-color: white;
     width: 70%;
+    margin: auto;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+#triangolo{
+    height: 12px;
+}
+
+#elenco{
+    margin-top: 40px;
+    background-color: white;
+    width: 70%;
+    margin: auto;
+    padding-left: 50px;
+    padding-top: 20px;
+    
+}
+
+strong{
+    color: rgb(73, 75, 77);
+    font-size: 20px;
+    
+}
+span{
+    font-weight: 600;
+    color: rgb(73, 75, 77);
 }
