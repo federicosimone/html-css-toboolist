@@ -99,3 +99,22 @@ h3{
     font-size: 10px;
     padding: 7px 10px  ;
     border-radius: 11px;
+}
+.cross {
+    padding: 0px 3px 0px 3px;
+    display: inline;
+    border: solid;
+    color: rgb(224, 10, 10);
+    border-width: 2px;
+    border-radius: 10px ;
+    border-color: rgb(224, 10, 10) ;
+    font-size: 13px;
+    font-weight: 600;
+}
+.list-button-green{
+    color: white;
+    background-color: rgb(99, 194, 168);
+    font-size: 10px;
+    padding: 7px 10px  ;
+    border-radius: 11px; 
+}
