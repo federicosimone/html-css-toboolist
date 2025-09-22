@@ -28,6 +28,7 @@ main{
     height: 800px;
     background-color: rgb(245, 247, 250);
     padding-top: 40px;
+    
 }
 
 #lista{
@@ -48,6 +49,7 @@ main{
     margin: auto;
     padding-left: 50px;
     padding-top: 20px;
+    
     
 }
 
@@ -163,4 +165,9 @@ h3{
 }
 .inline{
     display: inline-block;
+}
+#empty{
+   background-color: rgb(245, 247, 250);
+   height: 5px;
+   padding-top: ; 
 }
