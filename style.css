@@ -139,3 +139,28 @@ h3{
     padding: 7px 10px  ;
     border-radius: 11px; 
 }
+
+#add-task{
+   background-color: rgb(67,172,232) ;
+   border: none; 
+   color: white;
+   padding: 5px 10px;
+   border-radius: 5px;
+   font-size: 12px;
+   cursor: pointer;
+   
+}
+#add-section{
+    background-color: white;
+    color: rgb(199, 199, 199);
+    border-width: 1px;
+    border-color: rgb(199,199,199);
+    padding: 4px 9px ;
+    border-radius: 5px;
+    font-size: 12px;
+    cursor: pointer;
+    border-style: solid;
+}
+.inline{
+    display: inline-block;
+}
